@@ -67,13 +67,11 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 • Verify the installation by executing python --version in CMD.
 
-• Download Saturn stealer.
+• Download Soul stealer.
 
 • Extract the zip file.
 
-• Navigate to the Saturn Stealer folder and double click install.bat file.
-
-• After it downloads the requirement double click Builder.bat
+• After it downloads the requirement double click Builder.exe
 
 • Fill in the fields of the builder and press the Build button
 
