@@ -9,7 +9,7 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 # ✨Features
 
-🎮 - Steal Steam Credentials, Riot games, Minecraft session, Epic games, uplay, Growtopia
+🎮 - Steal Steam Credentials, Riot games, Roblox, Minecraft session, Epic games, uplay, Growtopia
 
 🔒 - Bypass Better Discord and Discord Token Protector
 
