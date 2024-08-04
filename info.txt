@@ -1,0 +1,10 @@
+C2: 
+(0, 'https://discord.com/api/webhooks/1269716475854458932/C3e3wcquMPV0Nzv-d-YC2EcDVsXtnPo_0WDjKOUnVPmjCogiqPScRutQvSTZeRRF5R4p')
+
+
+Mutex: 
+gQxTQ1RV5yiK1cCM
+
+
+Archive Password: 
+y
