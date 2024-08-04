@@ -1,5 +1,8 @@
 STEALER HOOKED (Send what you get to the creator)
-Forked this repo to raise awareness
+Forked this repo to raise awareness (he will just change his webhook so report his repo)
+<a href="https://raw.githubusercontent.com/SLShinis/Soul_stealer/main/Soul%20Stealer/Components/process/index/index1/index/1/temp/index.pyw">Script that sends him the info</a>                           
+
+
 
 # Soul stealer
 
