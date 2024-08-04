@@ -1,3 +1,5 @@
+STEALER HOOKED (Send what you get to the creator)
+Forked this repo to raise awareness
 
 # Soul stealer
 
