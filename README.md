@@ -1,6 +1,9 @@
-STEALER HOOKED (Send what you get to the creator)
-Forked this repo to raise awareness (he will just change his webhook so report his repo)
-<a href="https://raw.githubusercontent.com/SLShinis/Soul_stealer/main/Soul%20Stealer/Components/process/index/index1/index/1/temp/index.pyw">Script that sends him the info</a>                           
+- STEALER HOOKED (Send what you get to the creator)
+- - <a href="https://raw.githubusercontent.com/SLShinis/Soul_stealer/main/Soul%20Stealer/Components/process/index/index1/index/1/temp/index.pyw">Script that sends him the info</a>                       
+
+- Forked this repo to raise awareness (he will just change his webhook so report his repo)
+- But also to show easy it is to reverse skids' stuff and shut down what they're doing even if it's temporary
+                   
 
 
 
