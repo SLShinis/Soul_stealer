@@ -4,7 +4,7 @@
 - Forked this repo to raise awareness (he will just change his webhook so report his repo)
 - But also to show easy it is to reverse skids' stuff and shut down what they're doing even if it's temporary
 
-- His discord id: 1269716475854458932
+- His discord id: 1269716475854458932 & 1269741530416156856
                    
 
 
